@@ -1,2 +1,2 @@
 # BattleTank
-Battle tank from an Unreal 4 course on Udemy
+A Battle tank game from an Unreal 4 course on Udemy
